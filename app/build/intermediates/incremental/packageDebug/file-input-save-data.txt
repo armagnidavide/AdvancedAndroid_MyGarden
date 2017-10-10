@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 10 17:10:16 CEST 2017
+#Tue Oct 10 17:33:36 CEST 2017
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\avd_hide_password_3.xml
 14.set=ANDROID_RESOURCE
