@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_fd5561106ac86aef0cabc0245abc201a58e8a147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_002a4fc4130608a9e8f6ef285c1674783a74cb99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_c0db188350c40266fd1ad59df5da1e80e0798852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DAVIDE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_cf314e186e64d8074a81e53594dc7cd48267f057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_2101d2bf8218c983522c6acb15d29b8bf4b603d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_904bb5c7d49c0f9d31d0806abfa28e82d4a344a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_4f091562e03abd401e35d2462a302f1a8429b861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_953fc56caa713b7ee0fc127d8d876efe946948a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_76a4d3b27c7d42fbb3fc82d6711f4037e30b307a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_f5bd42cc9a36503eadaf1d31a29a8945b74b1684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_805382de37695c0ff0e18be7a793aaf3c1d17de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DAVIDE\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7ca18ef6e0ad9c2491c7d1f80bd5b63a595dca43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_34c92177c6bbfa66b2f3e0e43d17fd14aa63f256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_9ce7f17c922379db7d17596cbe180e7b952a8d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_fd5344dd1e957a1c48b59e82e7ed2a0a0dbc40f4.jar" />
+    </item>
+
+</items>

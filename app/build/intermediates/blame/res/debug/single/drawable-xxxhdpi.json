@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\arrow_back_white.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\calendar_bg.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\calendar_bg.png"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cut_white.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\cut_white.png"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\add_accent.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_accent.png"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\water_drop_white.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\water_drop_white.png"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\add_white.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_white.png"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\water_drop_blue.png",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\water_drop_blue.png"
+    }
+]

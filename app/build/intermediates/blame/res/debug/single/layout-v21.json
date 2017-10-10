@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_action.xml"
+    }
+]
