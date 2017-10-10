@@ -34,6 +34,16 @@
         <activity
             android:name="com.example.android.mygarden.ui.AddPlantActivity"
             android:label="@string/title_activity_add_plant" />
+
+        <receiver android:name="com.example.android.mygarden.PlantWidgetProvider" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/plant_widget_provider_info" />
+        </receiver>
     </application>
 
 </manifest>

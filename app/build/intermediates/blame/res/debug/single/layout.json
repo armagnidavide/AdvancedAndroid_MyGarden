@@ -188,6 +188,10 @@
         "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plant_widget_provider.xml",
+        "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\src\\main\\res\\layout\\plant_widget_provider.xml"
+    },
+    {
         "merged": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Udacity\\Android_Developer_Nanodegree\\Project_3\\MyGardenGithub\\AdvancedAndroid_MyGarden\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
