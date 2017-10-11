@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\Adva
 		INJECTED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:5:5-45:19
+ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:5:5-46:19
 MERGED from [com.android.support:design:25.2.0] C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\AndroidManifest.xml:22:5-20
@@ -84,13 +84,13 @@ ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\Adva
 	android:name
 		ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:34:25-81
 meta-data#android.appwidget.provider
-ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:37:13-39:70
+ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:37:13-39:61
 	android:resource
-		ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:39:17-67
+		ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:39:17-58
 	android:name
 		ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:38:17-58
 service#com.example.android.mygarden.PlantWateringService
-ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:42:9-44:48
+ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:42:9-44:40
 	android:exported
 		ADDED from C:\Udacity\Android_Developer_Nanodegree\Project_3\MyGardenGithub\AdvancedAndroid_MyGarden\app\src\main\AndroidManifest.xml:44:13-37
 	android:name

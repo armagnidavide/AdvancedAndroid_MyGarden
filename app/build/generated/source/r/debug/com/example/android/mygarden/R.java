@@ -3427,7 +3427,7 @@ containing a value of this type.
         public static final int plant_age=0x7f04003b;
         public static final int plant_list_item=0x7f04003c;
         public static final int plant_types_list_item=0x7f04003d;
-        public static final int plant_widget_provider=0x7f04003e;
+        public static final int plant_widget=0x7f04003e;
         public static final int select_dialog_item_material=0x7f04003f;
         public static final int select_dialog_multichoice_material=0x7f040040;
         public static final int select_dialog_singlechoice_material=0x7f040041;
@@ -3878,7 +3878,7 @@ containing a value of this type.
         public static final int Widget_Design_TextInputLayout=0x7f0a017a;
     }
     public static final class xml {
-        public static final int plant_widget_provider_info=0x7f070000;
+        public static final int plant_widget_info=0x7f070000;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
